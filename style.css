@@ -77,9 +77,3 @@ textarea {
   top: 19px;
   color: white;
 }
-
-textarea {
-  border-left: none;
-  width: 75%;
-  background-color: transparent;
-}
